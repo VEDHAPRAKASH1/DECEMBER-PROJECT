@@ -1,0 +1,17 @@
+div {
+    height: 100svh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+thead {
+    font-weight: 600;
+}
+table,td{
+    margin: 0px;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td {
+    padding: 10px;  
+}
